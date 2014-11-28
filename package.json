@@ -1,0 +1,26 @@
+{
+  "name": "SWSG",
+  "version": "1.0.0",
+  "description": "this is a project that generate static website with node inspired by jeckyll.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "static",
+    "website",
+    "small",
+    "company"
+  ],
+  "author": "Jiecheng Zhao",
+  "license": "GPL3",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "jasmine": "^2.1.0",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "markdown": "^0.5.0",
+    "through": "^2.3.6"
+  }
+}
